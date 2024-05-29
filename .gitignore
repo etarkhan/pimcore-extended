@@ -1,0 +1,17 @@
+
+# Docker-Build-Dateien
+*.tar
+*.img
+*.iso
+
+# Docker-Compose-Override-Dateien
+docker-compose.override.yml
+docker-compose.override.yaml
+
+# Docker-Umgebungsdateien
+.env
+.env.*
+
+#IDE
+.idea
+.vscode
